@@ -39,7 +39,7 @@ public class PlayerConnection : MonoBehaviourPunCallbacks
 		}
 		else
 		{
-			Debug.LogWarning("Вы не в комнате! Не удается отправить событие.");
+			Debug.LogWarning("You are not in room");
 		}
 	}
 
