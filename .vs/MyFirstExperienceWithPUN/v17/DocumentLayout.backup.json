@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fork\\MyFirstExperienceWithPUN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98020B80-3590-F5D3-E45A-46755B95CE48}|Assembly-CSharp.csproj|d:\\fork\\myfirstexperiencewithpun\\assets\\scripts\\components\\playermovementcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98020B80-3590-F5D3-E45A-46755B95CE48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\components\\playermovementcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98020B80-3590-F5D3-E45A-46755B95CE48}|Assembly-CSharp.csproj|d:\\fork\\myfirstexperiencewithpun\\assets\\scripts\\fsm\\player\\playeridle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98020B80-3590-F5D3-E45A-46755B95CE48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fsm\\player\\playeridle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98020B80-3590-F5D3-E45A-46755B95CE48}|Assembly-CSharp.csproj|D:\\Fork\\MyFirstExperienceWithPUN\\assets\\scripts\\dicontainer\\inputhandling\\interface\\icameradirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98020B80-3590-F5D3-E45A-46755B95CE48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dicontainer\\inputhandling\\interface\\icameradirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98020B80-3590-F5D3-E45A-46755B95CE48}|Assembly-CSharp.csproj|D:\\Fork\\MyFirstExperienceWithPUN\\assets\\scripts\\inputhandling\\playerinputactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98020B80-3590-F5D3-E45A-46755B95CE48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inputhandling\\playerinputactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98020B80-3590-F5D3-E45A-46755B95CE48}|Assembly-CSharp.csproj|D:\\Fork\\MyFirstExperienceWithPUN\\assets\\scripts\\dicontainer\\inputhandling\\desktopinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98020B80-3590-F5D3-E45A-46755B95CE48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dicontainer\\inputhandling\\desktopinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98020B80-3590-F5D3-E45A-46755B95CE48}|Assembly-CSharp.csproj|D:\\Fork\\MyFirstExperienceWithPUN\\assets\\scripts\\dicontainer\\inputhandling\\interface\\icharacterfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98020B80-3590-F5D3-E45A-46755B95CE48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dicontainer\\inputhandling\\interface\\icharacterfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98020B80-3590-F5D3-E45A-46755B95CE48}|Assembly-CSharp.csproj|D:\\Fork\\MyFirstExperienceWithPUN\\assets\\photon\\photonchat\\demos\\common\\eventsystemspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98020B80-3590-F5D3-E45A-46755B95CE48}|Assembly-CSharp.csproj|solutionrelative:assets\\photon\\photonchat\\demos\\common\\eventsystemspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98020B80-3590-F5D3-E45A-46755B95CE48}|Assembly-CSharp.csproj|D:\\Fork\\MyFirstExperienceWithPUN\\assets\\scripts\\dicontainer\\gameplayinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98020B80-3590-F5D3-E45A-46755B95CE48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dicontainer\\gameplayinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98020B80-3590-F5D3-E45A-46755B95CE48}|Assembly-CSharp.csproj|D:\\Fork\\MyFirstExperienceWithPUN\\assets\\scripts\\dicontainer\\inputhandling\\interface\\iinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98020B80-3590-F5D3-E45A-46755B95CE48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dicontainer\\inputhandling\\interface\\iinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98020B80-3590-F5D3-E45A-46755B95CE48}|Assembly-CSharp.csproj|D:\\Fork\\MyFirstExperienceWithPUN\\assets\\scripts\\networking\\playerconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98020B80-3590-F5D3-E45A-46755B95CE48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\networking\\playerconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerIdle.cs",
+              "DocumentMoniker": "D:\\Fork\\MyFirstExperienceWithPUN\\Assets\\Scripts\\FSM\\Player\\PlayerIdle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FSM\\Player\\PlayerIdle.cs",
+              "ToolTip": "D:\\Fork\\MyFirstExperienceWithPUN\\Assets\\Scripts\\FSM\\Player\\PlayerIdle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FSM\\Player\\PlayerIdle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T01:43:07.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovementComponent.cs",
+              "DocumentMoniker": "D:\\Fork\\MyFirstExperienceWithPUN\\Assets\\Scripts\\Components\\PlayerMovementComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Components\\PlayerMovementComponent.cs",
+              "ToolTip": "D:\\Fork\\MyFirstExperienceWithPUN\\Assets\\Scripts\\Components\\PlayerMovementComponent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Components\\PlayerMovementComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T01:42:33.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerInputActions.cs",
+              "DocumentMoniker": "D:\\Fork\\MyFirstExperienceWithPUN\\Assets\\Scripts\\InputHandling\\PlayerInputActions.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InputHandling\\PlayerInputActions.cs",
+              "ToolTip": "D:\\Fork\\MyFirstExperienceWithPUN\\Assets\\Scripts\\InputHandling\\PlayerInputActions.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InputHandling\\PlayerInputActions.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T01:37:03.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventSystemSpawner.cs",
+              "DocumentMoniker": "D:\\Fork\\MyFirstExperienceWithPUN\\Assets\\Photon\\PhotonChat\\Demos\\Common\\EventSystemSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Photon\\PhotonChat\\Demos\\Common\\EventSystemSpawner.cs",
+              "ToolTip": "D:\\Fork\\MyFirstExperienceWithPUN\\Assets\\Photon\\PhotonChat\\Demos\\Common\\EventSystemSpawner.cs",
+              "RelativeToolTip": "Assets\\Photon\\PhotonChat\\Demos\\Common\\EventSystemSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T01:35:43.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IInput.cs",
+              "DocumentMoniker": "D:\\Fork\\MyFirstExperienceWithPUN\\Assets\\Scripts\\DiContainer\\InputHandling\\Interface\\IInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DiContainer\\InputHandling\\Interface\\IInput.cs",
+              "ToolTip": "D:\\Fork\\MyFirstExperienceWithPUN\\Assets\\Scripts\\DiContainer\\InputHandling\\Interface\\IInput.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DiContainer\\InputHandling\\Interface\\IInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T01:34:54.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICharacterFactory.cs",
+              "DocumentMoniker": "D:\\Fork\\MyFirstExperienceWithPUN\\Assets\\Scripts\\DiContainer\\InputHandling\\Interface\\ICharacterFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DiContainer\\InputHandling\\Interface\\ICharacterFactory.cs",
+              "ToolTip": "D:\\Fork\\MyFirstExperienceWithPUN\\Assets\\Scripts\\DiContainer\\InputHandling\\Interface\\ICharacterFactory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DiContainer\\InputHandling\\Interface\\ICharacterFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T01:34:47.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICameraDirection.cs",
+              "DocumentMoniker": "D:\\Fork\\MyFirstExperienceWithPUN\\Assets\\Scripts\\DiContainer\\InputHandling\\Interface\\ICameraDirection.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DiContainer\\InputHandling\\Interface\\ICameraDirection.cs",
+              "ToolTip": "D:\\Fork\\MyFirstExperienceWithPUN\\Assets\\Scripts\\DiContainer\\InputHandling\\Interface\\ICameraDirection.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DiContainer\\InputHandling\\Interface\\ICameraDirection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T01:34:18.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DesktopInput.cs",
+              "DocumentMoniker": "D:\\Fork\\MyFirstExperienceWithPUN\\Assets\\Scripts\\DiContainer\\InputHandling\\DesktopInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DiContainer\\InputHandling\\DesktopInput.cs",
+              "ToolTip": "D:\\Fork\\MyFirstExperienceWithPUN\\Assets\\Scripts\\DiContainer\\InputHandling\\DesktopInput.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DiContainer\\InputHandling\\DesktopInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T01:32:37.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameplayInstaller.cs",
+              "DocumentMoniker": "D:\\Fork\\MyFirstExperienceWithPUN\\Assets\\Scripts\\DiContainer\\GameplayInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DiContainer\\GameplayInstaller.cs",
+              "ToolTip": "D:\\Fork\\MyFirstExperienceWithPUN\\Assets\\Scripts\\DiContainer\\GameplayInstaller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DiContainer\\GameplayInstaller.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T01:32:05.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerConnection.cs",
+              "DocumentMoniker": "D:\\Fork\\MyFirstExperienceWithPUN\\Assets\\Scripts\\Networking\\PlayerConnection.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Networking\\PlayerConnection.cs",
+              "ToolTip": "D:\\Fork\\MyFirstExperienceWithPUN\\Assets\\Scripts\\Networking\\PlayerConnection.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Networking\\PlayerConnection.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T01:27:49.657Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

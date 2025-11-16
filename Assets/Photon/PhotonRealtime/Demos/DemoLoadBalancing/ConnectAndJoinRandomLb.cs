@@ -115,7 +115,7 @@ namespace Photon.Realtime.Demo
 
         public void OnJoinedRoom()
         {
-            Debug.Log("CreateOtherPlayer");
+            Debug.Log("OnJoinedRoom");
         }
 
         public void OnJoinRoomFailed(short returnCode, string message)
